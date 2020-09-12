@@ -3,7 +3,11 @@
 Решение 2 лабараторной работы
 Вариант - 1 (погода)
 
-![Screenshot](jdbc_sql.png)
+![screenshot](Screenshot_1.png)
+
+![screenshot](Screenshot_2.png)
+
+![screenshot](Screenshot_3.png)
 
 ```
 CREATE TABLE IF NOT EXISTS `weather` (
